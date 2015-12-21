@@ -1,7 +1,7 @@
 # revel_benchmark
 
-* Go: 1.5.2
-* Revel: 0.12.0
+* Go 1.5.2
+* Revel 0.12.0
 
 ```
 $ revel run revel_benchmark prod
